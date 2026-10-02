@@ -1,6 +1,9 @@
-## Hi there 👋
+[![vbousquet's GitHub stats](https://github-stats-extended.vercel.app/api?username=vbousquet&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/stats-organization/github-stats-extended)
+
 
 <!--
+## Hi there 👋
+
 **vbousquet/vbousquet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
